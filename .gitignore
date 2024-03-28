@@ -1,0 +1,7 @@
+venv
+.idea
+*.pyc
+__init__.py
+**__pycache__**
+django_api/movies/migrations
+db.sqlite3
